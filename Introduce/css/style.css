@@ -20,6 +20,7 @@
 		line-height: 1.75em;
 	}
 
+
 .image.fit img {
 	width: 100%;
 	height: auto;
@@ -115,6 +116,8 @@
 	footer.major {
 		padding-top: 3em;
 	}
+
+
 
 /* Form */
 
@@ -221,6 +224,7 @@
 		.icon > .label {
 			display: none;
 		}
+
 
 /* Lists */
 
@@ -656,6 +660,7 @@
 		#footer a {
 			color: inherit;
 		}
+
 		
 
 
@@ -791,6 +796,7 @@
 	margin-top: 30px;
 	margin-left: 600px;
 	color: black;
+	text-align: left;
 	position: absolute;
 }
 .section-about {
@@ -837,7 +843,7 @@
 .btn-next:focus {
   position: absolute;
   padding: 8px 8px 7px 14px;
-  background-color: #6a75ca;
+  background-color: #3ac984;
   color: white;
   border: none;
   font-size: 18px;
@@ -848,7 +854,7 @@
 .btn-prev:focus {
   position: absolute;
   padding: 8px 14px 7px 8px;
-  background-color: #6a75ca;
+  background-color: #3ac984;
   color: white;
   border: none;
   font-size: 20px;
