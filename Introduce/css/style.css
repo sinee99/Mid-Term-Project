@@ -786,8 +786,10 @@
  /* image slider */
  
 .photosub{
-	margin-top: 0px;
-	margin-left: 560px;
+	font-size: 32px;
+	width: calc(40%);
+	margin-top: 30px;
+	margin-left: 600px;
 	color: black;
 	position: absolute;
 }
